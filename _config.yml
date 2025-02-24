@@ -4,7 +4,7 @@ description: Electrical Engineering and Embedded Systems
 # disabled because we are using a custom domain
 #baseurl: /business-frontpage 
 
-color-scheme: "#3b424b"
+color-scheme: '#3b424b'
 
 sass:
   sass_dir: /assets/css/_sass
