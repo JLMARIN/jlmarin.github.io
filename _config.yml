@@ -1,10 +1,10 @@
-# url: https://y7kim.github.io
-# baseurl: /agency-jekyll-theme/
+url: https://jlmarin.github.io
+#baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: EngbeddeX
 email: jorge.marin@engbeddex.com
-description: "Electrical Engineering and Embedded Systems"
+description: "Electrical Engineering and Embedded Systems Design"
 
 
 # Team names, titles and social links
@@ -35,8 +35,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Edmonton, AB
+  - line: Canada
 
 # Build settings
 markdown: kramdown
